@@ -47,10 +47,6 @@ Hi there 👋, I'm Tyler! I am a Master's student in Data Sci, based in Sydney, 
 &nbsp;
 ![Tableau](https://img.shields.io/badge/Dataviz-Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 
-## 📊 GitHub Stats 
-
-![Tyler's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tyler737&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
 ## :pushpin: Pinned Repos 
 
 <a href="https://github.com/phamthiminhtu/nutrition-tracking-app">
@@ -74,7 +70,6 @@ Hi there 👋, I'm Tyler! I am a Master's student in Data Sci, based in Sydney, 
     <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=tyler737&theme=indigo"/>
 </div>
 <br>
-
 
 
 <!--
