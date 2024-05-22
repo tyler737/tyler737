@@ -60,23 +60,6 @@ Hi there 👋, I'm Tyler! I am a Master's student in Data Sci, based in Sydney, 
 <a href="https://github.com/tyler737/adv_mla_a2_api">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tyler737&repo=adv_mla_a2_api&theme=radical" />
-  
-<a href="https://github.com/tyler737/adv_mla_at3_steamlit">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tyler737&repo=adv_mla_at3_steamlit&theme=synthwave" />
-  
-<a href="https://github.com/tyler737/at3_dl">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tyler737&repo=at3_dl&theme=merko" />
-
-<a href="https://github.com/tyler737/EfficientNet-for-Face-Facemask-detection">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tyler737&repo=EfficientNet-for-Face-Facemask-detection&theme=dracula" />
-
-<a href="https://github.com/tyler737/adv_mla_a2">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tyler737&repo=adv_mla_a2&theme=cobalt" />
-
 
 ## 🏆 GitHub Trophies:
 
