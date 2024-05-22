@@ -65,7 +65,6 @@ Hi there 👋, I'm Tyler! I am a Master's student in Data Sci, based in Sydney, 
 <br>
 
 ## 📈 GitHub Contribution Graph:
-
 <div align="center">
     <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=tyler737&theme=indigo"/>
 </div>
